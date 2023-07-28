@@ -1,0 +1,179 @@
+{
+  "Header": {
+    "title": "Welcome To Heavenly Events!",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "We specialize in creating unforgettable event experiences that leave a lasting impression. With our passion for detail, creativity, and impeccable organization, we transform your vision into reality. Our team of dedicated event professionals delivers exceptional service from concept to execution. We handle every aspect with finesse and precision. From venue selection to entertainment and technical production, we go above and beyond to exceed your expectations.",
+    "Why": [
+      "Expert Team",
+      "Personalized Approach",
+      "Comprehensive Solutions"
+      
+    ],
+    "Why2": [
+      "Creativity and Innovation",
+      "Strong Vendor Network",
+      "Client Satisfaction"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Social Events",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Wedding",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Birthday Celebration",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Corporate Events",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Engagement",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Destination Wedding",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Puberty",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Haldi",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Baby Shower",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Wedding Planning and Coordination",
+      "text": "Crafting Your Perfect Love Story, Every Step of the Way!"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Corporate Event Management",
+      "text": "Elevating Business Experiences, Inspiring Success!"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Social Event Organization (birthdays, anniversaries, etc.)",
+      "text": "Celebrating Life's Milestones, Creating Lasting Memories!"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Conference and Seminar Planning",
+      "text": "Powerful Connections, Empowering Ideas, Unforgettable Experiences!"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Product Launch and Brand Activation",
+      "text": "Igniting Excitement, Unleashing Innovation, Captivating Audiences!"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Gala Dinners and Award Ceremonies",
+      "text": "An Evening of Elegance, Recognizing Excellence, Unforgettable Celebrations!"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"The event organized by Heavenly Events was truly exceptional! The attention to detail, seamless coordination, and unforgettable experience made it a night to remember..\"",
+      "name": "John S"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Working with Heavenly Events was a breeze! Their professionalism, creativity, and dedication ensured our conference was a resounding success. Highly recommended!\"",
+      "name": "Sara S"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I couldn't be happier with the wedding planning services provided by Heavenly Events. They brought our vision to life, exceeding our expectations and creating magical moments we'll cherish forever.\"",
+      "name": "Emily L"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Kudos to Heavenly Events for organizing a flawless corporate gathering. From start to finish, their expertise and flawless execution left a lasting impression on our clients and guests.\"",
+      "name": "Kamalesh"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Heavenly Events truly understands the essence of a memorable celebration. Their impeccable design, top-notch entertainment, and seamless execution made our anniversary party a night to remember.\"",
+      "name": "Mark D"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Heavenly Events went above and beyond to make our product launch a huge success. Their creativity, attention to detail, and exceptional event management skills made a significant impact on our brand.\"",
+      "name": "Kavya"
+    }
+  ],
+  "Team": [
+   
+    {
+      "img": "img/team/02.jpg",
+      "name": "Harsha",
+      "job": "Event Coordinator"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Abinaya",
+      "job": "Decorator"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Keerthana",
+      "job": "AV Technician"
+    }
+  ],
+  "Contact": {
+    "address": "91,CGE Colony Thoothukudi",
+    "phone": "+91 8056605417",
+    "email": "heavenlyevents@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
